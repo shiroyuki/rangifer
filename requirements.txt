@@ -1,0 +1,5 @@
+fastapi
+imagination
+pydantic
+sqlalchemy[asyncio]
+uvicorn[standard]
