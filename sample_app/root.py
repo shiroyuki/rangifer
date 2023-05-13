@@ -1,4 +1,4 @@
-from caribou.http.definitions import endpoint
+from rangifer.http.definitions import endpoint
 
 
 @endpoint(r'/')
